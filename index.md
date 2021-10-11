@@ -15,6 +15,7 @@ I'm a trained economist, but I've come to appreciate that computer scientists th
 
 A really cool example of a project in this vein is Robert Axelrod's *Evolution of Cooperation* project. My own small contribution to that project is a [model](https://github.com/RickWeber/Prisoners_Dilemma_ABM) I built in NetLogo. 
 
+## My links
+
 * [Github](https://github.com/RickWeber)
 * [LinkedIn](https://www.linkedin.com/in/another-rick-weber/)
-
