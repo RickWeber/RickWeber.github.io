@@ -18,7 +18,9 @@ A really cool example of a project in this vein is Robert Axelrod's *Evolution o
 # Wordle
 
 Let's face it, you're really here to find out how I play Wordle. 
-[This is how.](https://github.com/RickWeber/wordle_search)
+[This is how.](https://github.com/RickWeber/wordle_search) If you'd like to play
+with it without setting it up on your computer, check it out on
+[replit](https://replit.com/@RickWeber/wordlesearch#.replit). 
 
 ## My links
 
